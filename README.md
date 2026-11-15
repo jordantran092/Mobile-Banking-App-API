@@ -1,4 +1,4 @@
-# Bank App Spring Boot REST API
+# Mobile Banking App API
 
 A full-stack banking application demonstrating **clean architecture**, **comprehensive testing**, and **RESTful API design**.
 <br><br>
