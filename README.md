@@ -2,7 +2,7 @@
 
 A full-stack banking application demonstrating **clean architecture**, **comprehensive testing**, and **RESTful API design**.
 <br><br>
-Click here for front-end app portion of source code: [repository](https://github.com/jordantran092/Bank)
+Click here for front-end app portion of source code: [repository](https://github.com/jordantran092/Mobile-Banking-App-Android)
 
 <!-- 
 If want to use private repo, use this link:
